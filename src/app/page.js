@@ -9,12 +9,12 @@ export default function Home() {
   }
   return (
     <>
-    <User name = "Rishav"/>
+    {/* <User name = "Rishav"/>
     <User name = "Ayasha"/>
     <User name = "Akanksha"/>
     <h1>{namee}</h1>
       <h1 style={{ color: "aqua"  }}>Hello World</h1>
-      <button onClick={()=>apple()}>ClickMe</button>
+      <button onClick={()=>apple()}>ClickMe</button> */}
     </>
   )
 }
